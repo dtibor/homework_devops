@@ -1,0 +1,8 @@
+short video description for my solution:
+
+https://drive.google.com/file/d/1IEG5wwULoUs9FJnIDITcH937v0AaNoqA/view?usp=sharing
+
+
+Followings needed to be able to deploy:
+export AWS_ACCESS_KEY_ID=""
+export AWS_SECRET_ACCESS_KEY=""
